@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Vishnu T Pillai  
+#  Hi, I’m Vishnu T Pillai  
 
-🚀 **Data Scientist (Fresher) | Turning Raw Data into Decisions**  
+🚀 **Data Scientist (Fresher)
 🎯 Target Audience: Recruiters, Data Scientists, ML Engineers
 
 ---
