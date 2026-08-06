@@ -1,205 +1,229 @@
-# 👋 Hey, I'm Vishnu T Pillai
+# <h1 align="center">Hi 👋, I'm Vishnu T Pillai</h1>
 
-<div align="center">
+<h3 align="center">
+Data Scientist • Machine Learning Engineer • AI Enthusiast
+</h3>
 
-### Data Scientist | Machine Learning Engineer | AI Enthusiast
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-t-pillai)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vishnutpillai)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](#)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+Learner;Open+to+Work;Always+Learning+Something+New" />
 
-</div>
+</p>
 
----
+<p align="center">
 
-## 🎯 About Me
+<a href="https://github.com/Vishnutpillai">
+<img src="https://img.shields.io/github/followers/Vishnutpillai?label=Followers&style=for-the-badge"/>
+</a>
 
-I'm a passionate **Data Science graduate** transforming raw data into actionable insights and building production-ready ML solutions. My philosophy centers on solving **real business problems** through data-driven decision making—not just building models.
+<a href="https://github.com/Vishnutpillai">
+<img src="https://img.shields.io/github/stars/Vishnutpillai?style=for-the-badge"/>
+</a>
 
-**What drives me:**
-- 📊 Converting complex data into clear, actionable insights
-- 🔍 Engineering meaningful features and rigorous model evaluation
-- 🚀 Building end-to-end ML pipelines ready for production
-- 💡 Communicating technical findings to non-technical stakeholders
-- 🌱 Continuous learning in cutting-edge ML technologies
+<img src="https://komarev.com/ghpvc/?username=Vishnutpillai&style=for-the-badge&color=blue"/>
 
----
-
-## 🛠️ Technical Stack
-
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Machine Learning & Deep Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### Data Visualization & BI
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-0080FF?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### MLOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 📈 Environmental Data Analysis
-**Comprehensive EDA & Statistical Insights**
+I am an aspiring **Data Scientist** passionate about solving real-world problems through **Machine Learning**, **Data Analytics**, and **Artificial Intelligence**.
 
-Performed deep exploratory data analysis on environmental datasets to uncover trends, identify anomalies, and generate actionable statistical insights.
+I enjoy transforming raw data into meaningful insights, building production-ready ML pipelines, and continuously exploring new technologies in the AI ecosystem.
 
-**Key Highlights:**
-- 🔍 Advanced data cleaning and missing value imputation
-- 📊 Correlation and statistical relationship analysis
-- 📉 Outlier detection and treatment
-- 🎨 Professional statistical visualization
-- 💡 Data-driven insights generation
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+Currently focused on expanding my expertise in **MLOps**, **Cloud Computing**, and **LLM Applications**.
 
 ---
 
-### 📊 Sales Analytics Dashboard
-**Interactive Business Intelligence Solution**
+## 🚀 Current Focus
 
-Designed and deployed a comprehensive Power BI dashboard to analyze multi-dimensional sales data and drive business decisions.
-
-**Key Highlights:**
-- 📌 Executive KPI dashboard with real-time metrics
-- 💼 Sales performance trending and forecasting
-- 👥 Customer segmentation and behavioral analysis
-- 🔄 Interactive filtering and drill-down capabilities
-- 📑 Automated reporting workflows
-
-**Tech Stack:** `Power BI` `Excel` `DAX` `SQL`
+* 🤖 Machine Learning & Deep Learning
+* 📊 Data Analytics & Visualization
+* ☁️ AWS Cloud
+* 🐳 Docker & Kubernetes
+* ⚙️ MLOps
+* 🏗 Feature Store (Feast)
+* 🔄 CI/CD for ML
+* 🧠 Large Language Models (LLMs)
 
 ---
 
-### 🤖 Machine Learning Projects
+# 🛠 Tech Stack
 
-A collection of end-to-end ML projects demonstrating industry best practices:
+## Programming
 
-| Project | Problem Type | Key Skills |
-|---------|-------------|-----------|
-| 🏥 **Diabetes Prediction** | Classification | Feature Engineering, Model Tuning, Interpretability |
-| 💰 **Insurance Cost Prediction** | Regression | Statistical Analysis, Feature Scaling |
-| 🔌 **Customer Churn Prediction** | Classification | Class Imbalance, Business Impact Analysis |
-| 🏠 **House Price Prediction** | Regression | Advanced Feature Engineering, Ensemble Methods |
-| 📧 **Email Spam Detection** | NLP Classification | Text Processing, TF-IDF, Feature Extraction |
-| 😊 **Sentiment Analysis** | NLP | Text Preprocessing, Word Embeddings, Model Evaluation |
-| 🖼️ **Image Classification** | Computer Vision | CNN, Transfer Learning, Data Augmentation |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Common Across All Projects:**
-- ✅ End-to-end ML pipeline implementation
-- ✅ Rigorous data preprocessing and feature engineering
-- ✅ Multiple model training and evaluation
-- ✅ Hyperparameter optimization
-- ✅ Model interpretability analysis
-- ✅ Production-ready code with documentation
-- ✅ GitHub repository with reproducible workflows
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-## 🧠 My Approach to Data Science
+## Data Analysis
 
-I believe **effective data science is more than just training models**. My workflow is grounded in these principles:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 
-### The Right Questions First
-- ❓ Does this solve the actual business problem?
-- ❓ Are our assumptions valid and testable?
-- ❓ Is the data quality sufficient and reliable?
-
-### Build for Production
-- 💻 Clean, readable, and maintainable code
-- 📋 Comprehensive documentation and comments
-- 🔄 Reproducible workflows with version control
-- 📊 Model explainability and interpretability
-
-### Think Business
-- 💡 Quantify business impact, not just accuracy
-- 👥 Communicate findings clearly to stakeholders
-- ⚙️ Design solutions that are maintainable in production
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 
 ---
 
-## 📚 Currently Learning
+## Machine Learning
 
-I'm actively expanding my expertise in:
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
 
-- 🚀 **MLOps & ML Engineering** - Building scalable ML systems
-- 🎯 **Feature Stores** - Feast for feature management
-- 🐳 **Containerization** - Docker and Kubernetes
-- ☁️ **Cloud Platforms** - AWS services and cloud ML
-- 🔄 **CI/CD for ML** - Automated testing and deployment pipelines
-- 🤖 **Large Language Models** - LLM applications and fine-tuning
-- 📊 **Advanced Analytics** - Time series forecasting, causal inference
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
 
 ---
 
-## 🎯 What I'm Looking For
+## Data Visualization
 
-I'm actively seeking opportunities to contribute as:
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
 
-- 🔬 **Data Scientist**
-- 🤖 **Machine Learning Engineer**
-- 📊 **Data Analyst**
-- 🧠 **AI Engineer** (Entry-level)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-**I'm particularly interested in roles that involve:**
-- Building end-to-end ML solutions
-- Working with cross-functional teams
-- Solving complex real-world problems
-- Contributing to open-source projects
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Statistics
+## MLOps & Deployment
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vishnutpillai&color=blue&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 
----
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
 
-## 🤝 Let's Connect!
+![Feast](https://img.shields.io/badge/Feast-5B3FD3?style=for-the-badge)
 
-I'm always open to discussions about data science, machine learning, or career opportunities. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-t-pillai)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnutpillai)
-
-**💡 Have an exciting opportunity or collaboration idea?** → Let's talk!
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge\&logo=amazonaws)
 
 ---
 
-<div align="center">
+# 🌟 Featured Projects
 
-⭐ If you found my profile helpful, please consider starring my repositories!
+### 🚑 Insurance Cost Prediction
 
-**Made with ❤️ by Vishnu T Pillai**
+* End-to-End ML Pipeline
+* Feature Engineering
+* Model Training
+* FastAPI Deployment
+* Docker
+* MLflow
+* DVC
+* Feast Feature Store
+* Prometheus & Grafana Monitoring
 
-</div>
+---
+
+### 📈 Sales Analytics Dashboard
+
+* Power BI Dashboard
+* KPI Tracking
+* Business Intelligence
+* Customer Insights
+* Interactive Reports
+
+---
+
+### 🌍 Environmental Data Analysis
+
+* Exploratory Data Analysis
+* Data Cleaning
+* Outlier Detection
+* Statistical Analysis
+* Visualization
+
+---
+
+### 🤖 Other ML Projects
+
+* Diabetes Prediction
+* Customer Churn Prediction
+* House Price Prediction
+* Email Spam Detection
+* Sentiment Analysis
+* Image Classification
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnutpillai&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnutpillai&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vishnutpillai&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnutpillai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💡 My Philosophy
+
+> **"Data tells stories. Machine Learning helps us make better decisions. The real value comes from solving meaningful business problems—not just building models."**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vishnu-t-pillai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Vishnutpillai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open To Opportunities
+
+✅ Data Scientist
+
+✅ Machine Learning Engineer
+
+✅ Data Analyst
+
+✅ AI Engineer (Entry Level)
+
+I'm actively seeking opportunities where I can contribute, learn, and build impactful AI-driven solutions.
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my GitHub profile!
+
+**If you like my projects, don't forget to ⭐ my repositories.**
+
+</p>
+
 
