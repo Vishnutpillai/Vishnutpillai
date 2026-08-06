@@ -16,10 +16,7 @@ Data Scientist • Machine Learning Engineer • AI Enthusiast
 </a>
 
 <a href="https://github.com/Vishnutpillai">
-<img src="https://img.shields.io/github/stars/Vishnutpillai?style=for-the-badge"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Vishnutpillai&style=for-the-badge&color=blue"/>
 
 </p>
 
