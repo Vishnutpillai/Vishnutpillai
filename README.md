@@ -13,7 +13,6 @@ Data Scientist • Machine Learning Engineer • AI Enthusiast
 <p align="center">
 
 <a href="https://github.com/Vishnutpillai">
-<img src="https://img.shields.io/github/followers/Vishnutpillai?label=Followers&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Vishnutpillai">
