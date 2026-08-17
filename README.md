@@ -1,159 +1,233 @@
-# <h1 align="center">Hi 👋, I'm Vishnu T Pillai</h1>
+<h1 align="center">Hi 👋, I'm Vishnu T Pillai</h1>
 
 <h3 align="center">
 Data Scientist • Machine Learning Engineer • AI Enthusiast
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+Learner;Open+to+Work;Always+Learning+Something+New" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;AI+%26+LLM+Enthusiast;MLOps+Learner;Building+End-to-End+ML+Systems;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Vishnutpillai">
-</a>
-
-<a href="https://github.com/Vishnutpillai">
-</a>
-
+  <a href="https://github.com/Vishnutpillai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishnu-t-pillai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am an aspiring **Data Scientist** passionate about solving real-world problems through **Machine Learning**, **Data Analytics**, and **Artificial Intelligence**.
+I'm an aspiring **Data Scientist and Machine Learning Engineer** passionate about turning data into practical, intelligent solutions.
 
-I enjoy transforming raw data into meaningful insights, building production-ready ML pipelines, and continuously exploring new technologies in the AI ecosystem.
+My interests span **Machine Learning, Deep Learning, Generative AI, LLM applications, Data Analytics, and MLOps**. I enjoy building projects end-to-end — from data preprocessing and model development to API development, containerization, and deployment.
 
-Currently focused on expanding my expertise in **MLOps**, **Cloud Computing**, and **LLM Applications**.
+Currently, I'm focusing on strengthening my skills in **MLOps, AWS Cloud, Docker, CI/CD, Feature Stores, and LLM-powered applications**.
+
+🎯 **Goal:** Build reliable, production-oriented AI and machine learning systems that solve meaningful real-world problems.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Currently Working On
 
 * 🤖 Machine Learning & Deep Learning
-* 📊 Data Analytics & Visualization
+* 🧠 LLM & Generative AI Applications
+* 🔎 RAG & Hybrid Search Systems
+* ⚙️ MLOps & ML Deployment
 * ☁️ AWS Cloud
-* 🐳 Docker & Kubernetes
-* ⚙️ MLOps
-* 🏗 Feature Store (Feast)
-* 🔄 CI/CD for ML
-* 🧠 Large Language Models (LLMs)
+* 🐳 Docker & Containerization
+* 🔄 CI/CD for Machine Learning
+* 🏗️ Feature Stores with Feast
+* 📊 Data Analytics & Business Intelligence
+* 📈 Model Monitoring & Production ML
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Programming
+### 👨‍💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### 📊 Data Science & Analytics
 
----
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
+</p>
 
-## Data Analysis
+### 🧠 Deep Learning & AI
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+### 📈 Data Visualization
 
----
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-## Machine Learning
+### 🧠 LLM & RAG
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq-F54E42?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BM25-Hybrid%20Search-6C63FF?style=for-the-badge"/>
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+### ⚙️ MLOps & Deployment
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
+</p>
 
----
+### ☁️ Cloud & Infrastructure
 
-## Data Visualization
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
----
-
-## MLOps & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
-
-![Feast](https://img.shields.io/badge/Feast-5B3FD3?style=for-the-badge)
-
-![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge\&logo=amazonaws)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Feast-5B3FD3?style=for-the-badge"/>
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
-### 🚑 Insurance Cost Prediction
+## 🔎 Hybrid RAG AI — Document Question Answering
 
-* End-to-End ML Pipeline
-* Feature Engineering
-* Model Training
-* FastAPI Deployment
-* Docker
-* MLflow
-* DVC
-* Feast Feature Store
-* Prometheus & Grafana Monitoring
+**Hybrid Retrieval-Augmented Generation system for intelligent document search and question answering.**
 
----
+**Tech:** Python • FastAPI • LangChain • ChromaDB • BM25 • Hugging Face • Groq • Docker
 
-### 📈 Sales Analytics Dashboard
+### Highlights
 
-* Power BI Dashboard
-* KPI Tracking
-* Business Intelligence
-* Customer Insights
-* Interactive Reports
+* 📄 Processes PDF documents and creates searchable chunks
+* 🔢 Generates semantic embeddings for vector retrieval
+* 🔍 Combines **Vector Search + BM25** using hybrid retrieval
+* 🧠 Uses Groq LLM for contextual answer generation
+* 📊 Calculates retrieval and evidence confidence
+* ⚡ Exposes the RAG pipeline through a FastAPI backend
+* 🐳 Containerized for deployment
+
+🔗 **Repository:**
+https://github.com/Vishnutpillai
 
 ---
 
-### 🌍 Environmental Data Analysis
+## 🚑 Insurance Cost Prediction
 
-* Exploratory Data Analysis
-* Data Cleaning
-* Outlier Detection
-* Statistical Analysis
-* Visualization
+**End-to-end Machine Learning application for predicting insurance costs.**
+
+**Tech:** Python • Pandas • Scikit-Learn • FastAPI • Streamlit • Docker
+
+### Highlights
+
+* Data preprocessing and exploratory analysis
+* Feature engineering
+* Machine learning model training
+* Model evaluation and optimization
+* API-based prediction service
+* Interactive web application
+* Deployment-oriented project structure
+
+🔗 **Live Demo:**
+https://insurance-cost-prediction-2026.streamlit.app/
 
 ---
 
-### 🤖 Other ML Projects
+## 📊 Sales Analytics Dashboard
 
-* Diabetes Prediction
-* Customer Churn Prediction
-* House Price Prediction
-* Email Spam Detection
-* Sentiment Analysis
-* Image Classification
+**Interactive business intelligence dashboard for analyzing sales performance.**
+
+**Tech:** Power BI • SQL • Python • Data Analysis
+
+### Highlights
+
+* KPI tracking
+* Sales performance analysis
+* Customer insights
+* Product and regional analysis
+* Interactive business reports
+* Data-driven decision support
 
 ---
 
-# 📊 GitHub Stats
+## 🏠 House Price Prediction
+
+Machine Learning project for predicting house prices using structured housing data.
+
+**Tech:** Python • Pandas • Scikit-Learn • Feature Engineering • Streamlit
+
+### Highlights
+
+* Data preprocessing
+* Feature engineering
+* Regression modeling
+* Model evaluation
+* Interactive prediction application
+
+🔗 **Repository:**
+https://github.com/Vishnutpillai/House-Price-Prediction
+
+---
+
+# 🤖 Other Projects
+
+| Project                        | Area             | Technologies              |
+| ------------------------------ | ---------------- | ------------------------- |
+| 🩺 Diabetes Prediction         | Machine Learning | Python, Scikit-Learn      |
+| 📱 Customer Churn Prediction   | Classification   | Python, XGBoost           |
+| 📧 Email Spam Detection        | NLP              | Python, NLP, ML           |
+| 💬 Sentiment Analysis          | NLP              | Python, NLP               |
+| 🚗 Image Classification        | Deep Learning    | TensorFlow, CNN           |
+| 📊 Environmental Data Analysis | Data Science     | Pandas, NumPy, Matplotlib |
+
+---
+
+# 📚 Areas of Interest
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+Generative AI & LLMs
+       ↓
+RAG & Hybrid Search
+       ↓
+MLOps & Model Deployment
+       ↓
+Cloud & Production AI
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnutpillai&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnutpillai&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnutpillai&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnutpillai&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -161,26 +235,40 @@ Currently focused on expanding my expertise in **MLOps**, **Cloud Computing**, a
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vishnutpillai&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Vishnutpillai&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnutpillai&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnutpillai&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 💡 My Philosophy
+# 🧠 My Approach
 
-> **"Data tells stories. Machine Learning helps us make better decisions. The real value comes from solving meaningful business problems—not just building models."**
+> **Learn → Build → Deploy → Monitor → Improve**
+
+I believe the best way to learn AI and Machine Learning is by building practical systems and continuously improving them.
+
+My focus is not only on training models, but also on understanding how machine learning systems can be **deployed, monitored, maintained, and used in real-world applications.**
+
+---
+
+# 🎯 Career Goals
+
+I'm currently looking for opportunities where I can contribute to real-world data and AI problems while continuing to grow as an engineer.
+
+### Open to:
+
+* 🔹 Data Scientist
+* 🔹 Machine Learning Engineer
+* 🔹 Data Analyst
+* 🔹 AI Engineer
+* 🔹 Junior MLOps / ML Engineer
 
 ---
 
@@ -189,38 +277,25 @@ Currently focused on expanding my expertise in **MLOps**, **Cloud Computing**, a
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vishnu-t-pillai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Vishnutpillai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-# 💼 Open To Opportunities
-
-✅ Data Scientist
-
-✅ Machine Learning Engineer
-
-✅ Data Analyst
-
-✅ AI Engineer (Entry Level)
-
-I'm actively seeking opportunities where I can contribute, learn, and build impactful AI-driven solutions.
 
 ---
 
 <p align="center">
 
-### ⭐ Thank you for visiting my GitHub profile!
+### ⭐ Thanks for visiting my profile!
 
-**If you like my projects, don't forget to ⭐ my repositories.**
+**Build. Learn. Deploy. Repeat. 🚀**
 
 </p>
+
 
 
 
